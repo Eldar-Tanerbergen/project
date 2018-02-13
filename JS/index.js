@@ -31,4 +31,3 @@ function openNavRight() {
 function closeNavRight() {
   document.getElementById("rightSidenav").style.right = "0";
 }
-ss
